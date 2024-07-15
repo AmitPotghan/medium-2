@@ -1,0 +1,16 @@
+{
+  "name": "@amitpotghan/medium",
+  "version": "1.0.4",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@amitpotghan/medium": "^1.0.4",
+    "zod": "^3.23.8"
+  }
+}
