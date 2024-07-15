@@ -1,6 +1,7 @@
 import { Quote } from "../components/Quote"
 import { Auth }  from "../components/Auth"
 export function Signup(){
+    console.log();
     return <div className="bg-customWhite">
         <div className="grid grid-cols-1 lg:grid-cols-2">
             <div >
